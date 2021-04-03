@@ -1,5 +1,4 @@
 public class TriangleClassifierTest4 {
-	
 }
 /*
 import junit.framework.TestCase;
