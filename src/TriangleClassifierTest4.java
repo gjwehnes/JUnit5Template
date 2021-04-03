@@ -1,6 +1,6 @@
-public class TriangleClassifierTest4 {
+/*public class TriangleClassifierTest4 {
 }
-/*
+*/
 import junit.framework.TestCase;
 
 public class TriangleClassifierTest4 extends TestCase {
@@ -93,4 +93,3 @@ public class TriangleClassifierTest4 extends TestCase {
     }
     
 }
-*/
