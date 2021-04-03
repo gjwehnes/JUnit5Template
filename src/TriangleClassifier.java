@@ -3,8 +3,6 @@ public class TriangleClassifier {
 	
 	public static boolean isValidTriangle(int angleA, int angleB, int angleC)
 	{
-		//.contains() method?
-		//80, 50, 50
 		boolean isValid = true;
 		
 		if ((angleA + angleB + angleC) != 180)
@@ -45,7 +43,6 @@ public class TriangleClassifier {
 	
 	public static String classifyBySide(int sideA, int sideB, int sideC)
 	{
-		//find something that allows me to check for matches in array
 		String classificationBySide = "";
 		if(sideA == 60 && sideB == 60 && sideC == 60)
 		{
@@ -86,5 +83,4 @@ public class TriangleClassifier {
 		return finalClassification;
 		
 	}
-
 }
