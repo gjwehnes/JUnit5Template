@@ -1,5 +1,9 @@
 public class ManualTest5 {
 	
+    public static void main(String[] args) {
+        System.out.println(ManualTest5.class.getName() + " not implemented");
+    }
+
 }
 
 //import org.junit.jupiter.api.Test;
