@@ -1,16 +1,5 @@
-/*
-public class TriangleClassifierTest5 {
-    public static void main(String[] args) {
-        System.out.println(TriangleClassifierTest5.class.getName() + " not implemented");
-    }
-}
-*/
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
-
-//import org.junit.jupiter.api.Assertions;
-//import junit.framework.TestCase;
 
 public class TriangleClassifierTest {
 
