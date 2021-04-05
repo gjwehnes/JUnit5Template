@@ -36,7 +36,7 @@ public class TriangleClassifierTest {
     
     @Test
     public void testClassifyBySide() {
-    	assertEquals("equilaterul", TriangleClassifier.classifyBySide(60,60,60));	
+    	assertEquals("equilateral", TriangleClassifier.classifyBySide(60,60,60));	
     	assertEquals("isosceles", TriangleClassifier.classifyBySide(30,30,120));	
     	assertEquals("isosceles", TriangleClassifier.classifyBySide(30,120,30));	
     	assertEquals("isosceles", TriangleClassifier.classifyBySide(120,30,30));	
