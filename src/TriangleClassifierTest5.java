@@ -14,19 +14,6 @@ import org.junit.jupiter.api.Test;
 
 public class TriangleClassifierTest5  {
 
-    public void testAccessorBounds() {
-
-        GameOfLife game = new GameOfLife(10,10);
-
-        //test bounds
-        assertEquals(false, game.isAlive(-1,0));
-        assertEquals(false, game.isAlive(0,-1));
-        assertEquals(false, game.isAlive(11,0));
-        assertEquals(false, game.isAlive(0,11));
-        assertEquals(false, game.isAlive(20,20));        
-    }
-
-
     @Test
     public void testValidTriangle() {
     	assertEquals(true, TriangleClassifier.isValidTriangle(60,60,60));
