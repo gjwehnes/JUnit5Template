@@ -1,5 +1,3 @@
-# TriangleClassifier
-This example project is written in Java, and tested with Gradle/JUnit.
+#JUnit5Template
+This template contains an JUnit5 test which can be executed in replit, in Eclipse, and in github itself.
 
-### The assignment
-See the unit test
