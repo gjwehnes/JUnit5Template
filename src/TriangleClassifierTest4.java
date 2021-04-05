@@ -1,7 +1,7 @@
-/*public class TriangleClassifierTest4 {
+public class TriangleClassifierTest4 {
 }
-*/
 
+/*
 import static org.junit.Assert.*;
 import org.junit.Test;
 
@@ -106,3 +106,4 @@ public class TriangleClassifierTest4 {
     }
     
 }
+*/
