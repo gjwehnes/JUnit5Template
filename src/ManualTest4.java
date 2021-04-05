@@ -1,8 +1,8 @@
-/*
+
 public class ManualTest4 {
 	
 }
-*/
+/*
 import java.util.List;
 import org.junit.runner.*;
 
@@ -74,3 +74,4 @@ public class ManualTest4 {
 
 
 }
+*/
