@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
 //import org.junit.jupiter.api.Assertions;
 //import junit.framework.TestCase;
 
-public class TriangleClassifierTest5  {
+public class TriangleClassifierTest {
 
     @Test
     public void testValidTriangle() {
